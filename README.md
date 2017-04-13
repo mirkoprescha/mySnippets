@@ -1,6 +1,31 @@
 # mySnippets
 useful snippets for me
 
+
+## Intellij Idea shortcuts
+
+| mac   | key combination      |
+| ------------- |:--------------:|
+| CTRL + J        | quick docu     |
+| SHIFT + CMD + 8 | column mode             |
+| CMD+ALT+L       | formatting              |
+| CMD+F12         | quick structure of class or file in editor      |
+| CMD+H           | hierarchy of class      |
+| CTRL+O          | override methods        |
+| CTRL+ENTER      | generate                |
+| ALT+ENTER       | add type annotation     |
+
+## Mac shortcuts
+
+| mac   | key combination      |
+| ------------- |:--------------:|
+| open .       | open terminal path in finder     |
+| ~	    |  ALT+N        |
+| |     |  ALT+7           |
+| \	    |  SHIFT+ALT+7 |
+| @     |  ALT+L           |
+
+
 ## AWS
 
 ### generate-grafana-panel-for-cloudwatch-metrics.py
